@@ -18,7 +18,17 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  
+  background-color: #fff0f5; /* Light pink background */
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+.navbar {
+  background-color: #ff69b4 !important; /* Bright pink navbar */
+}
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white !important;
+    font-weight: bold;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
