@@ -41,7 +41,7 @@ write_files:
     content: |
       ASPNETCORE_ENVIRONMENT=Production
       ASPNETCORE_URLS=http://+:5000
-    owner: www-data:www-data
+    owner: root:root
     permissions: '0640'
 
 systemd:
