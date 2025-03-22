@@ -10,6 +10,9 @@ runcmd:
   # create the port /opt/Lego_Inventory directory
   - mkdir -p /opt/BarbellaInventory
   - chown azureuser:azureuser /opt/BarbellaInventory
+  - systemctl daemon-reexec
+  - systemctl enable BarbellaInventory.service
+  - systemctl start BarbellaInventory.service
   
   
 
@@ -41,7 +44,7 @@ write_files:
     content: |
       ASPNETCORE_ENVIRONMENT=Production
       ASPNETCORE_URLS=http://+:5000
-    owner: root:root
+    owner: www-data:www-data
     permissions: '0640'
 
 systemd:
