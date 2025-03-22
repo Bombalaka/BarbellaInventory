@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarbellaInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ec6f831f438cfb34aace2e0865b19a5ca9abb19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c34b9e90ebf8edae3790b437596806d5ac6fc5be")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarbellaInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarbellaInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
