@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dXcjEq1vrqs2UTyoXe1YpnV0EYQhuyeE6l+G4slGzvo=",
+  "Hash": "ivD8OvCWWDkorNT4Cle9mtbndKWu4vjos4xggJyqxOE=",
   "Source": "BarbellaInventory",
   "BasePath": "_content/BarbellaInventory",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-fn4bdlngbj.gz",
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-nsp7we24he.gz",
       "SourceId": "BarbellaInventory",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BarbellaInventory",
-      "RelativePath": "BarbellaInventory#[.{fingerprint=fn4bdlngbj}]!.bundle.scp.css.gz",
+      "RelativePath": "BarbellaInventory#[.{fingerprint=nsp7we24he}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarbellaInventory.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "whull769nf",
-      "Integrity": "pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=",
+      "Fingerprint": "xocy6omyp0",
+      "Integrity": "P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarbellaInventory.bundle.scp.css"
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-fn4bdlngbj.gz",
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-nsp7we24he.gz",
       "SourceId": "BarbellaInventory",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BarbellaInventory",
-      "RelativePath": "BarbellaInventory#[.{fingerprint=fn4bdlngbj}]?.styles.css.gz",
+      "RelativePath": "BarbellaInventory#[.{fingerprint=nsp7we24he}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BarbellaInventory.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "whull769nf",
-      "Integrity": "pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=",
+      "Fingerprint": "xocy6omyp0",
+      "Integrity": "P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BarbellaInventory.styles.css"
@@ -1277,12 +1277,12 @@
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-uy07c6lp3d.gz",
       "SourceId": "BarbellaInventory",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/BarbellaInventory",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=uy07c6lp3d}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "jdgw2ln1ab",
+      "Integrity": "GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "fn4bdlngbj",
-      "Integrity": "S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=",
+      "Fingerprint": "nsp7we24he",
+      "Integrity": "V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BarbellaInventory.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "fn4bdlngbj",
-      "Integrity": "S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=",
+      "Fingerprint": "nsp7we24he",
+      "Integrity": "V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarbellaInventory.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "uy07c6lp3d",
+      "Integrity": "WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1443,6 +1443,237 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\1.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q2bewyo27k",
+      "Integrity": "khcFfGT58nIfJutAONUNgH/UYLADd8GlazX3wojWPwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\2.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mtiyyo0mse",
+      "Integrity": "Niqj24WSqiy+XBZtU6mS6SqVpHH+7LL1WiV6e5LwTag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\ai-generated-8259725_1920.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/ai-generated-8259725_1920#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlhncvuw1c",
+      "Integrity": "2gDbzQEUEsVlXXJ7BETj4nMAhQvYz0cwOjW+4T2gJHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ai-generated-8259725_1920.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\cute-girl-doll-ai-generated.png",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/cute-girl-doll-ai-generated#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fo3jq9ahih",
+      "Integrity": "X5eWhEMlymtDfTwvJYbFqwNe417XImcBj9EXSYAofUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cute-girl-doll-ai-generated.png"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/elena-mishlanova-735yzlLr0ls-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogom1gdpzk",
+      "Integrity": "WBZP8kmtX9lbq3z981al8J/+aUUYGmYyHQ5xq4o91+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\inventory.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/inventory#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iycn5mb5s1",
+      "Integrity": "Ws5HeBzpy99ToLR4ZFQukJ4LBU2aDscf4AVZMAnCDSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\inventory.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/julee-juu-_tC7fgUngKo-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efmxbbhkds",
+      "Integrity": "yvZg95U5xr5Xe0KAk0UK0jB3nlZ2mIMv+InCYUP2uY8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\logo1.png",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/logo1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96dtbi2pak",
+      "Integrity": "8bpKAzqhhDIuiTUdiDPfj6sVZn5Lq0j7romNajroDxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo1.png"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/not-pot-wXDdlz2zGU8-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c0ud2zn2n2",
+      "Integrity": "1IgIyhl2T2DHbylHg5N6IQeBQTfE9EqGOg8BsmQPoQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\record-player-8255199_1280.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/record-player-8255199_1280#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tx7y9wevp9",
+      "Integrity": "T9oypmJdT4rC5wMakyHIRTYLVnZNwLtyLFcLZnGOmDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\record-player-8255199_1280.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg",
+      "SourceId": "BarbellaInventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\",
+      "BasePath": "_content/BarbellaInventory",
+      "RelativePath": "images/sandra-gabriel-c32Ivg-M2Ew-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "56n7yj7jnp",
+      "Integrity": "89DFz7p8fcOGV3xGyi3U5Gfs0h+9Kh8LFTabaYe28uc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg"
     },
     {
       "Identity": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\js\\site.js",
@@ -2729,12 +2960,12 @@
   "Endpoints": [
     {
       "Route": "BarbellaInventory.bundle.scp.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-fn4bdlngbj.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-nsp7we24he.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.001683501684"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2975,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +3003,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "W/\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
@@ -2793,7 +3024,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1266"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +3032,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +3046,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
       "Route": "BarbellaInventory.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-fn4bdlngbj.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-nsp7we24he.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +3061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +3069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +3091,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo="
+          "Value": "sha256-P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.bundle.scp.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-fn4bdlngbj.gz",
+      "Route": "BarbellaInventory.nsp7we24he.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-nsp7we24he.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.001683501684"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +3112,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +3140,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "W/\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -2923,12 +3154,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.bundle.scp.css",
+      "Route": "BarbellaInventory.nsp7we24he.bundle.scp.css",
       "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarbellaInventory.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +3169,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1266"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +3177,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +3191,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -2968,13 +3199,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-fn4bdlngbj.gz",
+      "Route": "BarbellaInventory.nsp7we24he.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\8q900uqulz-nsp7we24he.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +3214,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +3222,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3244,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -3021,18 +3252,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo="
+          "Value": "sha256-P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.styles.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-fn4bdlngbj.gz",
+      "Route": "BarbellaInventory.nsp7we24he.styles.css",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-nsp7we24he.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.001683501684"
         }
       ],
       "ResponseHeaders": [
@@ -3042,15 +3273,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3301,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "W/\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -3084,12 +3315,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.styles.css",
+      "Route": "BarbellaInventory.nsp7we24he.styles.css",
       "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BarbellaInventory.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3099,7 +3330,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1266"
         },
         {
           "Name": "Content-Type",
@@ -3107,11 +3338,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3121,7 +3352,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -3129,13 +3360,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
-      "Route": "BarbellaInventory.fn4bdlngbj.styles.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-fn4bdlngbj.gz",
+      "Route": "BarbellaInventory.nsp7we24he.styles.css.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-nsp7we24he.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3375,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "Content-Type",
@@ -3152,11 +3383,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3405,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fn4bdlngbj"
+          "Value": "nsp7we24he"
         },
         {
           "Name": "label",
@@ -3182,18 +3413,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo="
+          "Value": "sha256-P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0="
         }
       ]
     },
     {
       "Route": "BarbellaInventory.styles.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-fn4bdlngbj.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-nsp7we24he.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001828153565"
+          "Quality": "0.001683501684"
         }
       ],
       "ResponseHeaders": [
@@ -3203,15 +3434,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3462,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "W/\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
@@ -3252,7 +3483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1266"
         },
         {
           "Name": "Content-Type",
@@ -3260,11 +3491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI=\""
+          "Value": "\"V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,13 +3505,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-S/05Vt5fM/l5NyXUZoKNPgBsCuHnqLn8O1eiK1Jy3FI="
+          "Value": "sha256-V7Yej4UrhL46exRUzGIAZJaZsAJuCHBHEoEPF5EGEDQ="
         }
       ]
     },
     {
       "Route": "BarbellaInventory.styles.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-fn4bdlngbj.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\vgj18v0drd-nsp7we24he.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3520,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "546"
+          "Value": "593"
         },
         {
           "Name": "Content-Type",
@@ -3297,11 +3528,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo=\""
+          "Value": "\"P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 21:19:23 GMT"
+          "Value": "Sat, 22 Mar 2025 21:42:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3319,18 +3550,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pN4Bu58L57YewIgc9AQ1drDI4zbjusN11T7Q1hEGzqo="
+          "Value": "sha256-P4XVzOdwcNnJDA3cKthqHpwonzPp30uCxa+4LrLxKn0="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-uy07c6lp3d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002267573696"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3571,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "440"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,26 +3599,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3620,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "941"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3628,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-uy07c6lp3d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.uy07c6lp3d.css",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-uy07c6lp3d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002267573696"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uy07c6lp3d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.uy07c6lp3d.css",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3787,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "uy07c6lp3d"
         },
         {
           "Name": "label",
@@ -3427,13 +3795,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-WguQPtbauNOCQq0EOUd4cdfebuAKbCz/vhaSBdTqPg0="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-b9sayid5wm.gz",
+      "Route": "css/site.uy07c6lp3d.css.gz",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-uy07c6lp3d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "440"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
+          "Value": "Sat, 22 Mar 2025 21:35:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3840,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "uy07c6lp3d"
         },
         {
           "Name": "label",
@@ -3480,144 +3848,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\compressed\\w8qccdis4v-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 22 Mar 2025 20:53:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-GX+XfLCOSBLLBUgaj9Gw718Wgt5k2VaK5AKJeA6vpaE="
         }
       ]
     },
@@ -3916,6 +4147,908 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khcFfGT58nIfJutAONUNgH/UYLADd8GlazX3wojWPwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-khcFfGT58nIfJutAONUNgH/UYLADd8GlazX3wojWPwc="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.q2bewyo27k.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"khcFfGT58nIfJutAONUNgH/UYLADd8GlazX3wojWPwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q2bewyo27k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-khcFfGT58nIfJutAONUNgH/UYLADd8GlazX3wojWPwc="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Niqj24WSqiy+XBZtU6mS6SqVpHH+7LL1WiV6e5LwTag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Niqj24WSqiy+XBZtU6mS6SqVpHH+7LL1WiV6e5LwTag="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.mtiyyo0mse.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Niqj24WSqiy+XBZtU6mS6SqVpHH+7LL1WiV6e5LwTag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtiyyo0mse"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Niqj24WSqiy+XBZtU6mS6SqVpHH+7LL1WiV6e5LwTag="
+        }
+      ]
+    },
+    {
+      "Route": "images/ai-generated-8259725_1920.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\ai-generated-8259725_1920.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2gDbzQEUEsVlXXJ7BETj4nMAhQvYz0cwOjW+4T2gJHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2gDbzQEUEsVlXXJ7BETj4nMAhQvYz0cwOjW+4T2gJHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/ai-generated-8259725_1920.mlhncvuw1c.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\ai-generated-8259725_1920.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "730960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2gDbzQEUEsVlXXJ7BETj4nMAhQvYz0cwOjW+4T2gJHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlhncvuw1c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ai-generated-8259725_1920.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2gDbzQEUEsVlXXJ7BETj4nMAhQvYz0cwOjW+4T2gJHQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/cute-girl-doll-ai-generated.fo3jq9ahih.png",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\cute-girl-doll-ai-generated.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2028756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5eWhEMlymtDfTwvJYbFqwNe417XImcBj9EXSYAofUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fo3jq9ahih"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cute-girl-doll-ai-generated.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5eWhEMlymtDfTwvJYbFqwNe417XImcBj9EXSYAofUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/cute-girl-doll-ai-generated.png",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\cute-girl-doll-ai-generated.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2028756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5eWhEMlymtDfTwvJYbFqwNe417XImcBj9EXSYAofUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5eWhEMlymtDfTwvJYbFqwNe417XImcBj9EXSYAofUg="
+        }
+      ]
+    },
+    {
+      "Route": "images/elena-mishlanova-735yzlLr0ls-unsplash.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2022611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WBZP8kmtX9lbq3z981al8J/+aUUYGmYyHQ5xq4o91+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WBZP8kmtX9lbq3z981al8J/+aUUYGmYyHQ5xq4o91+Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/elena-mishlanova-735yzlLr0ls-unsplash.ogom1gdpzk.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2022611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WBZP8kmtX9lbq3z981al8J/+aUUYGmYyHQ5xq4o91+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogom1gdpzk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/elena-mishlanova-735yzlLr0ls-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WBZP8kmtX9lbq3z981al8J/+aUUYGmYyHQ5xq4o91+Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/inventory.iycn5mb5s1.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\inventory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ws5HeBzpy99ToLR4ZFQukJ4LBU2aDscf4AVZMAnCDSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iycn5mb5s1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/inventory.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ws5HeBzpy99ToLR4ZFQukJ4LBU2aDscf4AVZMAnCDSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/inventory.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\inventory.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ws5HeBzpy99ToLR4ZFQukJ4LBU2aDscf4AVZMAnCDSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 19:54:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ws5HeBzpy99ToLR4ZFQukJ4LBU2aDscf4AVZMAnCDSE="
+        }
+      ]
+    },
+    {
+      "Route": "images/julee-juu-_tC7fgUngKo-unsplash.efmxbbhkds.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvZg95U5xr5Xe0KAk0UK0jB3nlZ2mIMv+InCYUP2uY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:27:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efmxbbhkds"
+        },
+        {
+          "Name": "label",
+          "Value": "images/julee-juu-_tC7fgUngKo-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvZg95U5xr5Xe0KAk0UK0jB3nlZ2mIMv+InCYUP2uY8="
+        }
+      ]
+    },
+    {
+      "Route": "images/julee-juu-_tC7fgUngKo-unsplash.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvZg95U5xr5Xe0KAk0UK0jB3nlZ2mIMv+InCYUP2uY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:27:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvZg95U5xr5Xe0KAk0UK0jB3nlZ2mIMv+InCYUP2uY8="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.96dtbi2pak.png",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\logo1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8bpKAzqhhDIuiTUdiDPfj6sVZn5Lq0j7romNajroDxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 18:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96dtbi2pak"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bpKAzqhhDIuiTUdiDPfj6sVZn5Lq0j7romNajroDxE="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.png",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\logo1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8bpKAzqhhDIuiTUdiDPfj6sVZn5Lq0j7romNajroDxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 18:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8bpKAzqhhDIuiTUdiDPfj6sVZn5Lq0j7romNajroDxE="
+        }
+      ]
+    },
+    {
+      "Route": "images/not-pot-wXDdlz2zGU8-unsplash.c0ud2zn2n2.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8441598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1IgIyhl2T2DHbylHg5N6IQeBQTfE9EqGOg8BsmQPoQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0ud2zn2n2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/not-pot-wXDdlz2zGU8-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1IgIyhl2T2DHbylHg5N6IQeBQTfE9EqGOg8BsmQPoQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/not-pot-wXDdlz2zGU8-unsplash.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8441598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1IgIyhl2T2DHbylHg5N6IQeBQTfE9EqGOg8BsmQPoQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1IgIyhl2T2DHbylHg5N6IQeBQTfE9EqGOg8BsmQPoQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/record-player-8255199_1280.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\record-player-8255199_1280.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9oypmJdT4rC5wMakyHIRTYLVnZNwLtyLFcLZnGOmDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:28:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9oypmJdT4rC5wMakyHIRTYLVnZNwLtyLFcLZnGOmDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/record-player-8255199_1280.tx7y9wevp9.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\record-player-8255199_1280.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "211858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9oypmJdT4rC5wMakyHIRTYLVnZNwLtyLFcLZnGOmDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:28:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tx7y9wevp9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/record-player-8255199_1280.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9oypmJdT4rC5wMakyHIRTYLVnZNwLtyLFcLZnGOmDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/sandra-gabriel-c32Ivg-M2Ew-unsplash.56n7yj7jnp.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2627136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89DFz7p8fcOGV3xGyi3U5Gfs0h+9Kh8LFTabaYe28uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56n7yj7jnp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-89DFz7p8fcOGV3xGyi3U5Gfs0h+9Kh8LFTabaYe28uc="
+        }
+      ]
+    },
+    {
+      "Route": "images/sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg",
+      "AssetFile": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2627136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"89DFz7p8fcOGV3xGyi3U5Gfs0h+9Kh8LFTabaYe28uc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 16:26:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-89DFz7p8fcOGV3xGyi3U5Gfs0h+9Kh8LFTabaYe28uc="
         }
       ]
     },

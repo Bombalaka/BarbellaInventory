@@ -24,7 +24,6 @@ C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\BarbellaInve
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\scopedcss\bundle\BarbellaInventory.styles.css
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\scopedcss\projectbundle\BarbellaInventory.bundle.scp.css
-C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\w8qccdis4v-b9sayid5wm.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\w8gpwntwn0-61n19gt1b8.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\6bs42g4abe-xtxxf3hu2r.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\drxy4wqtta-bqjiyaj88i.gz
@@ -86,8 +85,6 @@ C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\r
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\zw0rec0ypz-muycvpuwrr.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\7eaho8cz8z-87fc7y1x7t.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\y3ompaf0ey-mlv21k5csn.gz
-C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\vgj18v0drd-fn4bdlngbj.gz
-C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\8q900uqulz-fn4bdlngbj.gz
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -103,3 +100,6 @@ C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\refint\Barbe
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\BarbellaInventory.pdb
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\BarbellaInventory.genruntimeconfig.cache
 C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\ref\BarbellaInventory.dll
+C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\w8qccdis4v-uy07c6lp3d.gz
+C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\vgj18v0drd-nsp7we24he.gz
+C:\Users\yotak\BarbellaInventory\BarbellaInventory\obj\Debug\net9.0\compressed\8q900uqulz-nsp7we24he.gz

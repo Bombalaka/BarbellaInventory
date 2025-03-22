@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarbellaInventory.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BarbellaInventory.fn4bdlngbj.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BarbellaInventory.nsp7we24he.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\css\\site.css",
@@ -11,6 +11,50 @@
     {
       "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\ai-generated-8259725_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\ai-generated-8259725_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\cute-girl-doll-ai-generated.png",
+      "PackagePath": "staticwebassets\\images\\cute-girl-doll-ai-generated.png"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\elena-mishlanova-735yzlLr0ls-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\inventory.jpg",
+      "PackagePath": "staticwebassets\\images\\inventory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\julee-juu-_tC7fgUngKo-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\not-pot-wXDdlz2zGU8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\record-player-8255199_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\record-player-8255199_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\sandra-gabriel-c32Ivg-M2Ew-unsplash.jpg"
     },
     {
       "Id": "C:\\Users\\yotak\\BarbellaInventory\\BarbellaInventory\\wwwroot\\js\\site.js",
