@@ -1,0 +1,40 @@
+@model BarbellaInventory.Models.BarbieSet
+
+<h2>➕ Add a New Barbies Collection</h2>
+
+
+<!-- Display validation summary for model-level errors -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @Html.ValidationSummary(false, null, new { @class = "text-danger" })
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"><i class="fas fa-times"></i></button>
+    </div>
+}
+
+<!-- Display message from the TempData sent by the controller -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"><i class="fas fa-times"></i></button>
+    </div>
+}
+
+<form asp-controller="Barbies" asp-action="SaveNewBarbieSet" method="post" class="card p-4 shadow-lg">
+    <div class="form-group" class="mb-3">
+        <label asp-for="Name" class="form-label">Barbies Collection Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success w-100 mt-3">✅ Save </button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

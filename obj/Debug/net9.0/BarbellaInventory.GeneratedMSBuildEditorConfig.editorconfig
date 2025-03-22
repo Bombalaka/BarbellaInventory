@@ -20,6 +20,22 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/yotak/BarbellaInventory/BarbellaInventory/Views/Barbies/BarbiesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyYmllc1xCYXJiaWVzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yotak/BarbellaInventory/BarbellaInventory/Views/Barbies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyYmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yotak/BarbellaInventory/BarbellaInventory/Views/Barbies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyYmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yotak/BarbellaInventory/BarbellaInventory/Views/Barbies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyYmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yotak/BarbellaInventory/BarbellaInventory/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

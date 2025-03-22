@@ -1,0 +1,43 @@
+
+@model List<BarbellaInventory.Models.BarbieSet>
+
+@{
+    ViewData["Title"] = "Barbies List";
+}
+
+<h2>Barbies Sets</h2>
+
+@if (!Model.Any())
+{
+    <p>No subscribers yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Edit/Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var set in Model)
+            {
+                <tr>
+                    <td>@set.Name</td>
+                    <td>@set.Description</td>
+                    <td>
+                        <a asp-controller="Barbies" asp-action="Edit" asp-route-id="@set.Id" class="btn btn-sm btn-warning">✏️ Edit</a>
+                        <form asp-controller="Barbies" asp-action="Delete" asp-route-id="@set.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-sm btn-danger">🗑 Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<p>
+    <a asp-controller="Barbies" asp-action="Create">Add New Barbies Collection</a>
+</p>
