@@ -61,8 +61,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: deploy # make sure this job runs only after deploy success
     steps:
-      - name: Debug — show which VM we are connecting to
-        run: echo "Connecting to ${{ secrets.VM_HOST }}"
       - name: Update CosmosDB connection on VM
         uses: appleboy/ssh-action@v0.1.10
         with:
@@ -70,6 +68,8 @@ jobs:
           username: ${{ secrets.VM_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
+            hostname
+            echo "✅ Successfully connected to VM!"
             echo "COSMOSDB_CONNECTIONSTRING=\"${{ secrets.COSMOSDB_CONNECTIONSTRING }}\"" | sudo tee /etc/BarbellaInventory/.env
             sudo systemctl restart BarbellaInventory.service
       - name: Update environment file with Cosmos DB connection string
