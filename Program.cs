@@ -10,45 +10,30 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Check if MongoDB should be used (default to false if not specified)
-bool useMongoDb = builder.Configuration.GetValue<bool>("FeatureFlags:UseMongoDb");
+// Try to read MongoDB connection string from environment variable
+var connectionString = Environment.GetEnvironmentVariable("COSMOSDB_CONNECTIONSTRING");
 
-if (useMongoDb)
+// If environment variable is not found, fallback to appsettings.json
+if (string.IsNullOrEmpty(connectionString))
 {
-    // Configure MongoDB options
-    builder.Services.Configure<MongoDbOptions>(
-        builder.Configuration.GetSection(MongoDbOptions.SectionName));
+    Console.WriteLine("⚠️ Environment variable not found. Checking appsettings.json.");
+    var config = builder.Configuration;
+    connectionString = config.GetSection("MongoDb:ConnectionString").Value;
+}
 
-    // Configure MongoDB client
-    builder.Services.AddSingleton<IMongoClient>(serviceProvider =>
-    {
-        var mongoDbOptions = builder.Configuration.GetSection(MongoDbOptions.SectionName).Get<MongoDbOptions>();
-        return new MongoClient(mongoDbOptions?.ConnectionString);
-    });
-
-    // Configure MongoDB collection
-    builder.Services.AddSingleton<IMongoCollection<BarbieSet>>(serviceProvider =>
-    {
-        var mongoDbOptions = builder.Configuration.GetSection(MongoDbOptions.SectionName).Get<MongoDbOptions>();
-        var mongoClient = serviceProvider.GetRequiredService<IMongoClient>();
-        var database = mongoClient.GetDatabase(mongoDbOptions?.DatabaseName);
-        return database.GetCollection<BarbieSet>(mongoDbOptions?.BarbiesCollectionName);
-    });
-
-    // Register MongoDB repository
-    builder.Services.AddSingleton<IBarbellaRepository, MongoDbRepository>();
-
-    Console.WriteLine("Using MongoDB repository");
+// If no connection string found, use in-memory repository fallback
+if (string.IsNullOrEmpty(connectionString))
+{
+    Console.WriteLine("⚠️ No MongoDB connection string found. Using In-Memory fallback repository.");
+    builder.Services.AddSingleton<IBarbellaRepository, InMemoryRepository>();
 }
 else
 {
-    // Register in-memory repository as fallback
-    builder.Services.AddSingleton<IBarbellaRepository, InMemoryRepository>();
-
-    Console.WriteLine("Using in-memory repository");
+    Console.WriteLine("✅ Using MongoDB connection string.");
+    builder.Services.AddSingleton<IMongoClient>(new MongoClient(connectionString));
+    builder.Services.AddScoped<IBarbellaRepository, MongoDbRepository>();
 }
-
-// Register service (depends on repository)
+// Register your service
 builder.Services.AddScoped<IBarbellaService, BarbellaService>();
 
 var app = builder.Build();
