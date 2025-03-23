@@ -56,7 +56,7 @@ jobs:
       - name: Start the application service
         run: |
           sudo systemctl start BarbellaInventory.service
-          
+
   connect-to-cosmos:
     runs-on: ubuntu-latest
     needs: deploy # make sure this job runs only after deploy success
@@ -70,3 +70,19 @@ jobs:
           script: |
             echo "COSMOSDB_CONNECTIONSTRING=\"${{ secrets.COSMOSDB_CONNECTIONSTRING }}\"" | sudo tee /etc/BarbellaInventory/.env
             sudo systemctl restart BarbellaInventory.service
+      - name: Update environment file with Cosmos DB connection string
+        env:
+          COSMOSDB_CONNECTIONSTRING: ${{ secrets.COSMOSDB_CONNECTIONSTRING }}
+        run: |
+          sudo bash -c "echo 'ASPNETCORE_ENVIRONMENT=Production' > /etc/BarbellaInventory/.env"
+          sudo bash -c "echo 'ASPNETCORE_URLS=http://+:5000' >> /etc/BarbellaInventory/.env"
+          sudo bash -c "echo 'COSMOSDB_DATABASE=\"BarbiesInventory\"' >> /etc/BarbellaInventory/.env"
+          sudo bash -c "echo 'COSMOSDB_CONNECTIONSTRING=\"$COSMOSDB_CONNECTIONSTRING\"' >> /etc/BarbellaInventory/.env"
+          sudo chown www-data:www-data /etc/BarbellaInventory/.env
+          sudo chmod 640 /etc/BarbellaInventory/.env
+
+      - name: Restart the application service
+        run: |
+          sudo systemctl daemon-reexec
+          sudo systemctl restart BarbellaInventory.service
+          sudo systemctl status BarbellaInventory.service
