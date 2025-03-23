@@ -1,7 +1,7 @@
 #!/bin/bash
 
-resource_group=BabrellaInventoryRG
-vm_name=BabrellaInventoryVM
+resource_group=BabrellaInventory
+vm_name=BabrellaInventory
 vm_port=5000
 
 az group create --location northeurope --name $resource_group

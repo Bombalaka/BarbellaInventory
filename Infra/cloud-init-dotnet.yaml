@@ -10,9 +10,7 @@ runcmd:
   # create the port /opt/Lego_Inventory directory
   - mkdir -p /opt/BarbellaInventory
   - chown azureuser:azureuser /opt/BarbellaInventory
-  - systemctl daemon-reexec
-  - systemctl enable BarbellaInventory.service
-  - systemctl start BarbellaInventory.service
+  
   
   
 
