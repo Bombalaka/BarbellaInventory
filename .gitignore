@@ -1,0 +1,19 @@
+# Ignore environment files with secrets
+appsettings.Development.json
+.env
+
+# Ignore compiled files and binaries
+bin/
+obj/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE-specific files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Ignore dependency folders (Node.js, Python, etc.)
+node_modules/
+venv/
