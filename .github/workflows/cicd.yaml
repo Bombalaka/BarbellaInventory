@@ -74,6 +74,7 @@ jobs:
         env:
           COSMOSDB_CONNECTIONSTRING: ${{ secrets.COSMOSDB_CONNECTIONSTRING }}
         run: |
+          sudo mkdir -p /etc/BarbellaInventory
           sudo bash -c "echo 'ASPNETCORE_ENVIRONMENT=Production' > /etc/BarbellaInventory/.env"
           sudo bash -c "echo 'ASPNETCORE_URLS=http://+:5000' >> /etc/BarbellaInventory/.env"
           sudo bash -c "echo 'COSMOSDB_DATABASE=\"BarbiesInventory\"' >> /etc/BarbellaInventory/.env"
