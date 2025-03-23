@@ -9,17 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+DotNetEnv.Env.Load();
 // Try to read MongoDB connection string from environment variable
 var connectionString = Environment.GetEnvironmentVariable("COSMOSDB_CONNECTIONSTRING");
-
-// If environment variable is not found, fallback to appsettings.json
-if (string.IsNullOrEmpty(connectionString))
-{
-    Console.WriteLine("⚠️ Environment variable not found. Checking appsettings.json.");
-    var config = builder.Configuration;
-    connectionString = config.GetSection("MongoDb:ConnectionString").Value;
-}
 
 // If no connection string found, use in-memory repository fallback
 if (string.IsNullOrEmpty(connectionString))
@@ -34,7 +26,7 @@ else
     builder.Services.AddScoped<IBarbellaRepository, MongoDbRepository>();
 }
 // Register your service
-//builder.Services.AddScoped<IBarbellaService, BarbellaService>();
+builder.Services.AddScoped<IBarbellaService, BarbellaService>();
 
 var app = builder.Build();
 
