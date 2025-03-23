@@ -9,7 +9,7 @@ az group create --location northeurope --name $resource_group
 az vm create --name $vm_name --resource-group $resource_group \
              --image Ubuntu2404 --size Standard_B1s \
              --generate-ssh-keys --admin-username azureuser \
-             --custom-data @cloud-init_dotnet.yaml
+             --custom-data @cloud-init-dotnet.yaml
 
 
 az vm open-port --port $vm_port --resource-group $resource_group --name $vm_name
