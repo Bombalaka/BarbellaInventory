@@ -56,7 +56,11 @@ namespace BarbellaInventory.Services
             ? OperationResult.Success("Barbie set updated successfully.")
             : OperationResult.Failure("Barbie set not found.");
         }
-        public async Task<BarbieSet> GetBarbieSetAsync(string id) => await _barbellaRepository.GetByIdAsync(id);
+        public async Task<BarbieSet> GetBarbieSetAsync(string id)
+        {
+            var result = await _barbellaRepository.GetByIdAsync(id);
+            return result ?? new BarbieSet();
+        }
 
         public async Task<IEnumerable<BarbieSet>> GetBarbieListAsync() => await _barbellaRepository.GetAllAsync();
     }
