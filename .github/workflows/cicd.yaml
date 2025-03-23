@@ -73,7 +73,7 @@ jobs:
       - name: Update environment file with Cosmos DB connection string
         env:
           COSMOSDB_CONNECTIONSTRING: ${{ secrets.COSMOSDB_CONNECTIONSTRING }}
-        run: |
+        script: |
           sudo mkdir -p /etc/BarbellaInventory
           sudo bash -c "tee /etc/BarbellaInventory/.env > /dev/null <<EOL
           ASPNETCORE_ENVIRONMENT=Production
