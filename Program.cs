@@ -30,7 +30,7 @@ if (string.IsNullOrEmpty(connectionString))
 else
 {
     // Use MongoDB client if connection string is found
-    Console.WriteLine("✅ Using MongoDB connection string.");
+    Console.WriteLine("✅ Using CosmoDB connection string.");
     builder.Services.AddSingleton<IMongoClient>(new MongoClient(connectionString));
     builder.Services.AddScoped<IMongoCollection<BarbieSet>>(serviceProvider =>
     {
