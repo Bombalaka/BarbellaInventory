@@ -83,7 +83,8 @@ jobs:
           EOL"
           sudo chown www-data:www-data /etc/BarbellaInventory/.env
           sudo chmod 640 /etc/BarbellaInventory/.env
+          sudo systemctl daemon-reexec
+          sudo systemctl restart BarbellaInventory.service
+          sudo systemctl status BarbellaInventory.service
 
-      - name: Start the application service
-        run: |
-          sudo systemctl start BarbellaInventory.service 
+      
