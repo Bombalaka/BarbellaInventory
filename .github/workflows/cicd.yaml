@@ -84,8 +84,6 @@ jobs:
           sudo chown www-data:www-data /etc/BarbellaInventory/.env
           sudo chmod 640 /etc/BarbellaInventory/.env
 
-      - name: Restart the application service
+      - name: Start the application service
         run: |
-          sudo systemctl daemon-reexec
-          sudo systemctl restart BarbellaInventory.service
-          sudo systemctl status BarbellaInventory.service
+          sudo systemctl start BarbellaInventory.service 
