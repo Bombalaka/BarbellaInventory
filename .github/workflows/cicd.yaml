@@ -68,23 +68,15 @@ jobs:
           username: ${{ secrets.VM_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            echo "COSMOSDB_CONNECTIONSTRING=\"${{ secrets.COSMOSDB_CONNECTIONSTRING }}\"" | sudo tee /etc/BarbellaInventory/.env
+            sudo mkdir -p /etc/BarbellaInventory
+            echo "ASPNETCORE_ENVIRONMENT=Production" | sudo tee /etc/BarbellaInventory/.env
+            echo "ASPNETCORE_URLS=http://+:5000" | sudo tee -a /etc/BarbellaInventory/.env
+            echo "COSMOSDB_DATABASE=\"BarbiesInventory\"" | sudo tee -a /etc/BarbellaInventory/.env
+            echo "COSMOSDB_CONNECTIONSTRING=\"${{ secrets.COSMOSDB_CONNECTIONSTRING }}\"" | sudo tee -a /etc/BarbellaInventory/.env
+            sudo chown www-data:www-data /etc/BarbellaInventory/.env
+            sudo chmod 640 /etc/BarbellaInventory/.env
+            sudo systemctl daemon-reexec
             sudo systemctl restart BarbellaInventory.service
-      - name: Update environment file with Cosmos DB connection string
-        env:
-          COSMOSDB_CONNECTIONSTRING: ${{ secrets.COSMOSDB_CONNECTIONSTRING }}
-        script: |
-          sudo mkdir -p /etc/BarbellaInventory
-          sudo bash -c "tee /etc/BarbellaInventory/.env > /dev/null <<EOL
-          ASPNETCORE_ENVIRONMENT=Production
-          ASPNETCORE_URLS=http://+:5000
-          COSMOSDB_DATABASE=\"BarbiesInventory\"
-          COSMOSDB_CONNECTIONSTRING=\"${{ secrets.COSMOSDB_CONNECTIONSTRING }}\"
-          EOL"
-          sudo chown www-data:www-data /etc/BarbellaInventory/.env
-          sudo chmod 640 /etc/BarbellaInventory/.env
-          sudo systemctl daemon-reexec
-          sudo systemctl restart BarbellaInventory.service
-          sudo systemctl status BarbellaInventory.service
+            sudo systemctl status BarbellaInventory.service
 
       
