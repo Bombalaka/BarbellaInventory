@@ -34,7 +34,7 @@ else
     builder.Services.AddScoped<IBarbellaRepository, MongoDbRepository>();
 }
 // Register your service
-builder.Services.AddScoped<IBarbellaService, BarbellaService>();
+//builder.Services.AddScoped<IBarbellaService, BarbellaService>();
 
 var app = builder.Build();
 
