@@ -15,7 +15,6 @@ DotNetEnv.Env.Load();
 // Try to read MongoDB connection string from environment variable
 var connectionString = Environment.GetEnvironmentVariable("COSMOSDB_CONNECTIONSTRING");
 
-/// If connection string is missing from environment variables, fallback to appsettings.Development.json
 if (string.IsNullOrEmpty(connectionString))
 {
     Console.WriteLine("⚠️ No Cosmos DB connection string found in environment. Checking appsettings.json or appsettings.Development.json.");
@@ -33,8 +32,16 @@ else
     // Use MongoDB client if connection string is found
     Console.WriteLine("✅ Using MongoDB connection string.");
     builder.Services.AddSingleton<IMongoClient>(new MongoClient(connectionString));
+    builder.Services.AddScoped<IMongoCollection<BarbieSet>>(serviceProvider =>
+    {
+        var client = serviceProvider.GetRequiredService<IMongoClient>();
+        var database = client.GetDatabase("BarbiesInventory");
+        return database.GetCollection<BarbieSet>("BarbieSets");
+    });
+
     builder.Services.AddScoped<IBarbellaRepository, MongoDbRepository>();
 }
+
 
 // Register your service
 builder.Services.AddScoped<IBarbellaService, BarbellaService>();
